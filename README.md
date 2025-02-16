@@ -36,7 +36,7 @@ The project includes several interactive dashboards created using Tableau:
 - **Attrition Dashboard**: Highlights attrition rates and reasons for employee turnover.
 - **Satisfaction Dashboard**: Displays results from employee satisfaction surveys.
 
-![Dashboard Example](path/to/your/image.png)
+![Dashboard](https://github.com/sarojmishraa/DataAnalysisProjects/blob/main/HR%20_%20Summary.png)
 
 ## How to Use
 
