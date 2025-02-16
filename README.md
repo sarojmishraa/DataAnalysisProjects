@@ -50,5 +50,5 @@ This HR Analytics Project demonstrates the power of data analysis and visualizat
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact Saroj Mishra at isarojmishraa@gmail.com.
 
